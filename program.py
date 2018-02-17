@@ -30,6 +30,8 @@ center = baris_A + kolom_B
 
 print (center)
 
+print ("github")
+
 # baris = A [0:1]
 # kolom = A [:, 0]
 # Pilih baris dalam format a [start: end], jika start atau 
